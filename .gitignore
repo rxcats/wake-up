@@ -17,3 +17,4 @@ package-lock.json
 *.ipr
 
 app.pid
+app.log
