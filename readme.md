@@ -10,6 +10,12 @@ npm install --global --production windows-build-tools
 npm install --global node-gyp
 ```
 
+## 빌드
+
+```
+npm install
+```
+
 ## 실행
 
 ```
